@@ -10,9 +10,10 @@
 - ⚡ Fun fact: I love to play basketball, sketch and listen to music 🎵🎨🏀.
 
 ---
-![Github stats](https://github-readme-stats.vercel.app/api?username=aniruddha-5)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aniruddha-5&repo=covid-19-tracker)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=aniruddha-5)
+
+---
 
 ### Contact with me 📝
 
@@ -45,11 +46,9 @@
 
 ---
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aniruddha-5&repo=covid-19-tracker)
 
 
----
-
-### ⭐️ From [Aniruddha](https://github.com/aniruddha-5) ### 
 
 ---
 [website]: https://github.com/aniruddha-5
@@ -58,7 +57,6 @@
 [Spotify]: https://open.spotify.com/user/31odkkwnebe2drfzwbqlk4dxhlzq?si=6y7arWTjQLCcWtXDQlNHUA
 
 
-----
 Credit: [Aniruddha ](https://github.com/aniruddha-5)
-
-Last Edited on: 07/05/2021
+----
+Last Edited on: 20/05/2021
