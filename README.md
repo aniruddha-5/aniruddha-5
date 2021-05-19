@@ -1,4 +1,4 @@
-# Hi there, I'm Aniruudha - aka [aniruddha-5][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Aniruddha - aka [aniruddha-5][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -10,6 +10,8 @@
 - ⚡ Fun fact: I love to play basketball, sketch and listen to music 🎵🎨🏀.
 
 ---
+![Github stats](https://github-readme-stats.vercel.app/api?username=aniruddha-5)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aniruddha-5&repo=covid-19-tracker)
 
 
 ### Contact with me 📝
