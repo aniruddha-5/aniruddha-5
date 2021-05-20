@@ -57,6 +57,6 @@
 [Spotify]: https://open.spotify.com/user/31odkkwnebe2drfzwbqlk4dxhlzq?si=6y7arWTjQLCcWtXDQlNHUA
 
 
-Credit: [Aniruddha ](https://github.com/aniruddha-5)
+Created By: [Aniruddha ](https://github.com/aniruddha-5)
 ----
 Last Edited on: 20/05/2021
