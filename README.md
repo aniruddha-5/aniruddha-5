@@ -4,10 +4,10 @@
 
 ## I'm a Computer Science and Engineering Student  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on my Problem Solving ability and Web development.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play basketball, sketch and listen to music 🎵🎨🏀.
+- 💪🏼 Learn more technologies - Never stop creating new ideas.
+- ⚡ I love to play basketball, sketch and listen to music 🎵🎨🏀.
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### Languages and Tools 🛠 
 
-![C++](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C%2B%2B-brightgreen)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
@@ -59,4 +59,4 @@
 
 Created By: [ARgone ](https://github.com/aniruddha-5)
 ----
-Last Edited on: 20/05/2021
+Last Edited on: 02/07/2021
