@@ -4,10 +4,10 @@
 
 ## I'm a Computer Science and Engineering Student  
 
-- 👨‍💻 I’m currently working on my Problem Solving ability and Web development.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 
-- 💪🏼 Learn more technologies - Never stop creating new ideas.
-- ⚡ I love to play basketball, sketch and listen to music 🎵🎨🏀.
+- I’m currently working on my Problem Solving ability and Web development.
+- I’m currently learning everything about Frontend and Backend technologies 
+- Learn more technologies - Never stop creating new ideas.
+- I love to play basketball, sketch, listen to music & listen to stories 🎵🎨🏀.
 
 ---
 
