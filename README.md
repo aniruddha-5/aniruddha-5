@@ -27,16 +27,15 @@
 <a href="https://codeforces.com/profile/argone.exe" target="_blank">
   <img align="left" alt="Aniruddha Routh | Codeforces" width="240px" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" />
 </a>
-<a href="https://twitter.com/AniruddhaRouth/" target="_blank">
-  <img align="left" alt="Aniruddha Routh | Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Twitter_box.jpg" />
-</a>  
-                                                                                                                                   
-<a href="https://www.linkedin.com/in/aniruddha-routh/" target="_blank">
-  <img align="left" alt="Aniruddha Routh | Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png" />
-</a>                                                                                                                                     
 <a href="https://www.codechef.com/users/aniruddha_5" target="_blank">
   <img align="left" alt="Aniruddha Routh | Codechef" width="30px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/>
+</a> 
+<a href="https://twitter.com/AniruddhaRouth/" target="_blank">
+  <img align="left" alt="Aniruddha Routh | Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Twitter_box.jpg" />
 </a>                                                                                                                                    
+<a href="https://www.linkedin.com/in/aniruddha-routh/" target="_blank">
+  <img align="left" alt="Aniruddha Routh | Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png" />
+</a>                                                                                                                                                       
 <a href="https://www.instagram.com/aniruddha.exe/" target="_blank">
   <img align="left" alt="Aniruddha Routh | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg"/>
 </a>
